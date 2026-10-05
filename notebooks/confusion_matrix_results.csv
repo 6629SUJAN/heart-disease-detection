@@ -1,0 +1,6 @@
+Model,TN,FP,FN,TP
+Logistic Regression,33,3,4,20
+KNN,31,5,5,19
+Decision Tree,28,8,4,20
+Random Forest,32,4,3,21
+SVM,33,3,6,18
